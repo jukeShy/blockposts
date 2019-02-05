@@ -1,0 +1,4 @@
+:local(.appContent) {
+  display: flex;
+  flex-wrap: wrap;
+}

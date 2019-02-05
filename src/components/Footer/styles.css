@@ -1,0 +1,6 @@
+:local(.appFooter) {
+  padding: 15px 0;
+  color: #fff;
+  text-align: center;
+  transition: background-color .2s ease-in-out;
+}
