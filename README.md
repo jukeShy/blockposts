@@ -1,4 +1,5 @@
 ## React CRUD приложение микро записей с использованием Context API и Firestore/Firebase.
+[А тут можно и посмотреть](https://react-blockpost.netlify.com/)
 
 ### Что я узнал/практиковал:
 
