@@ -1,4 +1,4 @@
-# React CRUD приложение микро записей с использованием Context API и Firestore/Firebase.
+## React CRUD приложение микро записей с использованием Context API и Firestore/Firebase.
 
 ### Что я узнал/практиковал:
 
